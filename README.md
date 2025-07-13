@@ -11,7 +11,7 @@ This is an AI-powered assistant built using **Google Gemini Pro (2.5)** and **La
 
 ## 🔗 Live Demo
 
-[https://smartassistantt.streamlit.app](https://smartassistantt.streamlit.app/)
+[https://smartaiassistant.streamlit.app](https://smartaiassistant.streamlit.app/)
 
 
 ## 🚀 Features
@@ -39,7 +39,7 @@ This is an AI-powered assistant built using **Google Gemini Pro (2.5)** and **La
 ## 📂 Folder Structure
 
 ```
-smart-assistant/
+smartaiassistant/
 ├── app.py                      # Streamlit UI
 ├── backend/
 │   ├── extractor.py            # Text extraction from PDF/TXT
@@ -57,8 +57,8 @@ smart-assistant/
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/sarthak7518/SmartAssistant.git
-cd SmartAssistant
+git clone https://github.com/Harshtr8/SmartAIAssistant.git
+cd SmartAIAssistant
 ```
 
 ### 2. Create a virtual environment
