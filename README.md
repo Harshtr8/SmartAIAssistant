@@ -11,7 +11,7 @@ This is an AI-powered assistant built using **Google Gemini Pro (2.5)** and **La
 
 ## 🔗 Live Demo
 
-[https://smartaiassistant.streamlit.app](https://smartaiassistant.streamlit.app/)
+[https://harshassistant.streamlit.app](https://harshassistant.streamlit.app/)
 
 
 ## 🚀 Features
